@@ -576,6 +576,9 @@ border-radius: 0.5rem;
                 color:green;
 
     }
+    .dark .header .navbar{
+    background-color:black;
+    }
       .dark .header .navbar a{
         color: green;
     }
