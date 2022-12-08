@@ -560,6 +560,7 @@ border-radius: 0.5rem;
         opacity: 0;
         transform-origin: top right;
         transition: none;
+        color:var(--green);
     }
 
     .header .navbar.active{
